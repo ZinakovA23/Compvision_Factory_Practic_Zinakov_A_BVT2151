@@ -1,4 +1,4 @@
-# Compvision
+# Compvision_Factory_Practic_Zinakov_A_BVT2151
 
 "Это файлы по производственной практике по системам ИИ"
 "Они не будут работать без наличия виртуального окружения и его нужно будет установить с помощью команды:"
@@ -8,4 +8,4 @@
 pip install -r requirements.txt
 3. После того как все было настроено нужно активировать виртуальное окружение: .venv\Scripts\activate
 4. а затем активировать приложение с помощью команды: python app1.py  или python app.py 
-# Compvision_Factory_Practic_Zinakov_A_BVT2151
+
